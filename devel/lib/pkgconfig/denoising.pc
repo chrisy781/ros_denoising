@@ -1,0 +1,8 @@
+prefix=/home/chris/denoising_ws/devel
+
+Name: denoising
+Description: Description of denoising
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

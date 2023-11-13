@@ -1,0 +1,2 @@
+denoising
+-DCATKIN_DEVEL_PREFIX=/home/chris/denoising_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chris/denoising_ws/install -G Unix Makefiles
